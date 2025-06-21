@@ -56,18 +56,14 @@ Tableau (6)
 3️⃣ Most In-Demand Skills
 Counted how often each skill appears in job postings.
 Top 5 In-Demand Skills:
+| Skill     | Demand Count |
+|-----------|--------------|
+| SQL       | 7,291        |
+| Excel     | 4,611        |
+| Python    | 4,330        |
+| Tableau   | 3,745        |
+| Power BI  | 2,609        |
 
-Skill	Demand Count
-
-SQL |	7,291
-
-Excel |	4,611
-
-Python |	4,330
-
-Tableau |	3,745
-
-Power BI |	2,609
 
 4️⃣ Skills by Average Salary
 Calculated the average salary for each skill to see which ones pay best.
@@ -75,26 +71,25 @@ Top Paying Skills:
 
 Skill	Avg Salary ($)
 
-Go | 	115,320
-
-Confluence | 	114,210
-Hadoop | 	113,193
-Snowflake | 	112,948
-Azure | 	111,225
+| Skill       | Average Salary ($) |
+|-------------|--------------------|
+| Go          | 115,320            |
+| Confluence  | 114,210            |
+| Hadoop      | 113,193            |
+| Snowflake   | 112,948            |
+| Azure       | 111,225            |
 
 5️⃣ Most Optimal Skills to Learn
 Combined demand and salary to find skills that offer the best ROI — high pay and high job availability.
 
-Skill |	Demand Count |	Avg Salary ($)
-
-Python| |	236	101,397
-
-R |	148	100,499
-
-SQL Server |	35	97,786
-Tableau |	230	99,288
-AWS |	32	108,317
-Snowflake |	37	112,948
+| Skill       | Demand Count | Avg Salary ($) |
+|-------------|--------------|----------------|
+| Python      | 236          | 101,397        |
+| R           | 148          | 100,499        |
+| SQL Server  | 35           | 97,786         |
+| Tableau     | 230          | 99,288         |
+| AWS         | 32           | 108,317        |
+| Snowflake   | 37           | 112,948        |
 
 
 # 🧠 What I Learned
