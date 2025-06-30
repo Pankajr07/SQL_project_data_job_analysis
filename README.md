@@ -31,8 +31,7 @@ Driven by a quest to navigate the data analyst job market more effectively, this
 4. Which skills correlate with higher salaries?
 
 5. What are the most optimal skills (high demand + high salary)?
-6. 
-
+   
 # 🧰 Tools Used
 
 SQL (PostgreSQL): For writing and running queries
