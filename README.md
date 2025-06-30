@@ -50,6 +50,9 @@ Git & GitHub: For version control and sharing my work
 Using salary data, I identified the 10 highest-paying remote data analyst jobs.
 Insight: Salaries ranged from $184K to $650K, with roles at companies like Meta and AT&T.
 
+![top_paying_jobs](https://github.com/user-attachments/assets/09c94ae6-2945-413a-b842-3ca8dae43c91)
+
+
 2️⃣ Skills for Top-Paying Jobs
 Joined top-paying job data with skills to uncover what tools and languages they require.
 Top Skills:
@@ -59,6 +62,7 @@ SQL (8 out of 10 roles)
 Python (7)
 
 Tableau (6)
+![top_skills_high_pay](https://github.com/user-attachments/assets/c8574ba1-b160-46ec-86f1-85312316d45f)
 
 3️⃣ Most In-Demand Skills
 
@@ -73,6 +77,7 @@ Top 5 In-Demand Skills:
 | Tableau   | 3,745        |
 | Power BI  | 2,609        |
 
+![most_in_demand_skills](https://github.com/user-attachments/assets/7336740c-3358-41ce-ad4b-ec57d19b4175)
 
 4️⃣ Skills by Average Salary
 
@@ -89,6 +94,7 @@ Skill	Avg Salary ($)
 | Snowflake   | 112,948            |
 | Azure       | 111,225            |
 
+![highest_paying_skills](https://github.com/user-attachments/assets/beb700f6-907f-4e2c-9f89-4407c99bccba)
 
 5️⃣ Most Optimal Skills to Learn
 
@@ -103,6 +109,7 @@ Combined demand and salary to find skills that offer the best ROI — high pay a
 | AWS         | 32           | 108,317        |
 | Snowflake   | 37           | 112,948        |
 
+![optimal_skills_roi](https://github.com/user-attachments/assets/c23492fd-76f2-449a-8351-1e3810f38b66)
 
 # 🧠 What I Learned
 
